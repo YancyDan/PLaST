@@ -2,7 +2,7 @@
 
 ## Status
 
-Code is cleaning, stay tuned.
+Code cleanup in progress. Stay tuned.
 
 ## License
 
